@@ -23,7 +23,7 @@ os.system ("cls")
 print("Loading")
 time.sleep (4)
 os.system ("cls")
-print("This is why you don't trust github.. Friend me here at Red On RR††#2655 aka you were logged")
+print("Friend me here Red On RR††#2655 just incase if anything goes wrong")
 time.sleep(2)
 os.system ("cls")
 
